@@ -17,10 +17,8 @@ Student Performance Analysis is a data analytics project built using Python, SQL
 - NumPy
 - SQL
 - SQLite
-- Streamlit
 - Power BI
 - Matplotlib
-- Seaborn
 
 ## Project Structure
 
